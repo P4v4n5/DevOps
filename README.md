@@ -1,9 +1,5 @@
 # DevOps
 
-[200~Here’s a detailed **Medium-style blog post** you can use to document and share your DevOps use case. It explains the purpose, context, setup, and the script in depth with clarity and real-world impact.
-
----
-
 ## 🔍 **Monitoring GitHub Repository Access with Shell Script in DevOps Workflows**
 
 > How a simple Bash script can enhance visibility, security, and collaboration in modern DevOps pipelines

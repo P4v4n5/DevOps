@@ -159,5 +159,3 @@ Incorporating simple automation like this into your DevOps workflows can dramati
 Happy scripting! 🐧
 
 ---
-
-Would you like a downloadable PDF version or a GitHub repo template for this script?
